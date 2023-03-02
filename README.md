@@ -9,7 +9,7 @@
 2. opencv
 
 ### Architecture
-![[스크린샷 2023-03-01 오후 8.34.08.png]]
+![[../image/image.png]]
 ### Use deep learning Model 
 1. VGG16
 2. Moblie Net 
