@@ -9,7 +9,7 @@
 2. opencv
 
 ### Architecture
-![Alt text](./image/image.png)
+![Alt text](./image/image1.png)
 ### Use deep learning Model 
 1. VGG16
 2. Moblie Net 
