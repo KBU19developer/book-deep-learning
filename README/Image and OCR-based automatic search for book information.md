@@ -9,7 +9,7 @@ this project aims to automatic search the information about a book using its cov
 2. opencv
 
 ### Architecture
-![Alt text](./image/image1.png)
+![Alt text](../image/image1.png)
 ### Use deep learning Model 
 1. VGG16
 2. Moblie Net 
