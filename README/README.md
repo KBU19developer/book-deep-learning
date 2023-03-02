@@ -1,4 +1,4 @@
-
+[KO](https://github.com/KBU19developer/book-deep-learning) [EN]()
 --- 
 ### Description 
 이 프로젝트는 책의 이미지를 이용하여 책의 정보를 자동으로 책 검색을 하게 하는 프로젝이다. 
